@@ -6,7 +6,7 @@ NodeJS        (https://nodejs.org/en/download/)
 
 npm install -g nodemon    (https://nodemon.io/)
 
-[Dependencies
+[Dependencies]
 npm i axios       (https://www.npmjs.com/package/axios)
 npm i cheerios    (https://www.npmjs.com/package/cheerio)
 npm i express     (https://www.npmjs.com/package/express)
