@@ -13,6 +13,3 @@ npm i express     (https://www.npmjs.com/package/express)
 
 To run:
 npm run start
-
-Inspiration:
-https://www.youtube.com/watch?v=-3lqUHeZs_0
